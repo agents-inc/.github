@@ -1,11 +1,6 @@
-<!-- TODO: Add centered logo with dark/light mode support
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agents-inc/.github/main/assets/logo-dark.svg">
-    <img alt="Agents Inc" src="https://raw.githubusercontent.com/agents-inc/.github/main/assets/logo-light.svg" width="300">
-  </picture>
+  <img alt="Agents Inc" src="../logo.svg" width="300">
 </p>
--->
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@agents-inc/cli"><img alt="npm version" src="https://img.shields.io/npm/v/@agents-inc/cli"></a>
