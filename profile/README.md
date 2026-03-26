@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@agents-inc/cli"><img alt="npm version" src="https://img.shields.io/npm/v/@agents-inc/cli"></a>
-  <a href="https://github.com/agents-inc/skills"><img alt="Skills: 87+" src="https://img.shields.io/badge/Skills-87%2B-green.svg"></a>
+  <a href="https://github.com/agents-inc/skills"><img alt="Skills: 87+" src="https://img.shields.io/badge/Skills-150%2B-green.svg"></a>
   <a href="https://github.com/agents-inc/cli/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
