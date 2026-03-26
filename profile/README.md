@@ -16,7 +16,7 @@ Structured skills get compiled into specialized subagents that know your stack, 
 | Repo | Description |
 | :--- | :--- |
 | **[cli](https://github.com/agents-inc/cli)** | Install skills, compile subagents, customize via config. |
-| **[skills](https://github.com/agents-inc/skills)** | 87+ curated skills for React, Vue, Angular, Next.js, Hono, and more. |
+| **[skills](https://github.com/agents-inc/skills)** | 150+ curated skills for React, Vue, Angular, Next.js, Hono, and more. |
 
 ### Get started
 
